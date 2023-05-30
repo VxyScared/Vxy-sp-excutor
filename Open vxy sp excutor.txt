@@ -1,0 +1,4 @@
+.code.
+:text (message)=value
+(code.txt.)
+Message=value "Open vxy sp excutor"
